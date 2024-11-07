@@ -1,4 +1,4 @@
-## PANDAS PYTHON LIBRARY
+##  PANDAS PYTHON LIBRARY PLAYGROUND
 <pre>This a long comprehensive workouts of .ipynb and .csv
 files for everyone who likes to play with data
 especially the fantastic pandas library frameworks
