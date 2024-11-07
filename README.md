@@ -1,5 +1,5 @@
 ## PANDAS PYTHON LIBRARY
-<pre>This a long comprehensive workouts .ipynb and .csv
+<pre>This a long comprehensive workouts of .ipynb and .csv
 files for everyone who likes to play with data
 especially the fantastic pandas library frameworks
 PREQUISITES
