@@ -1,7 +1,8 @@
-##  PANDAS PYTHON LIBRARY PLAYGROUND
+##  PANDAS PYTHON LIBRARY 
 
-<pre>This a long comprehensive workouts of .ipynb and .csv
+<pre>
+This a long comprehensive workouts of .ipynb and .csv
 files for pandas library framework.
-  CLONE THIS REPOSITORY
-  RUN JUPYTER LAB
+
 </pre>
+<p><i>Have A fun Analysis</i></p>
