@@ -1,8 +1,5 @@
-##  PANDAS PYTHON LIBRARY 
+## Pandas Data Analysis
 
-<pre>
-This a long comprehensive workouts of .ipynb and .csv
-files for pandas library framework.
-
-</pre>
-<p><i>Have A fun Analysis</i></p>
+```Sh
+Practice on Data Analysis with Pandas Python Library
+```
